@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  [Avi Mahajan](https://github.com/ajm9770)
+- 👋 Hi, I’m  [Avi Joshi Mahajan](https://github.com/ajm9770)
 - 👀 Currently working on [flower](https://flower.dev/) for federated learning in healthcare
 - 🌱 I'm currently rereading every book on AI
 - 💞️ I would love to 
