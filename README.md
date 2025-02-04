@@ -4,7 +4,6 @@
 - 💞️ I would love to 
 - 📫 [My website](https://www.avijmahajan.com), [My email](mahajan.avi@gmail.com)
 - 😄 he/him
-- ⚡ Here's my [blog](https://wimblenews.blogspot.com) on tennis
 
 <!---
 ajm9770/ajm9770 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
